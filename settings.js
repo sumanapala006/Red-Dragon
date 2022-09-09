@@ -11,8 +11,7 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 F
-global.alivemsg = `📤I am alive now😇
-*ɪ ᴀᴍ ᴅᴜʟᴀᴋꜱʜᴀɴᴀ ᴡʜᴀᴛꜱᴀᴘᴘ_ʙᴏᴛ😈🍃💫*
+global.alivemsg = `📤I am alive now😇 ɪ ᴀᴍ ᴅᴜʟᴀᴋꜱʜᴀɴᴀ_ʙᴏᴛ
 🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
 
 
@@ -33,7 +32,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.vcardowner = ['+94771263209'] // owner number
 global.ownername = "ᴅᴜʟᴀᴋꜱʜᴀɴᴀ_ʙᴏᴛ😈" // owner name
 global.ytname = "" // ᴅᴜʟᴀ ᴍᴜꜱɪᴄ
-global.socialm = "you tude: https://youtube.com/channel/UC5xjWnSQA5SEAKFtFP9H8VA" // github or insta name
+global.socialm = "github: https://youtube.com/channel/UC5xjWnSQA5SEAKFtFP9H8VA" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
 
 //bot body 
